@@ -20,7 +20,7 @@ Ce dépôt contient les configurations et scripts pour le déploiement d'un serv
 
 ## 🤝 Équipe
 
-- [**Evan Bonnal**](https://github.com/EvanBonal) 
+- [**Evan Bonnal**](https://github.com/EvanBonnal) 
 - [**Natalia Giraldo**](https://github.com/natalia-giraldo)
 - [**Alexandre Berdejo**](https://github.com/alexandreberdejo)
 - [**Karim Chanfi**](https://github.com/kvrim39)
