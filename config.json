@@ -1,0 +1,15 @@
+{
+  "server_name": "VoIP_Classroom",
+  "users": [
+    {
+      "name": "alice",
+      "extension": "6001",
+      "password": "bonjour"
+    },
+    {
+      "name": "bob",
+      "extension": "6002",
+      "password": "bonjour"
+    }
+  ]
+}
