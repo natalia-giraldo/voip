@@ -11,7 +11,7 @@ Ce dépôt contient les configurations et scripts pour le déploiement d'un serv
 
 ## 🚀 Fonctionnalités
 - **Appels Audio :** Configuration PJSIP (Alice & Bob).
-- Serveur Vocal Interactif (SVI) :** Menu dynamique ("Tapez 1 pour Alice...").
+- **Serveur Vocal Interactif (SVI) :** Menu dynamique ("Tapez 1 pour Alice...").
 - **Synthèse Vocale (TTS) :** Intégration hybride Google TTS.
 - **Messagerie Vocale :** Boîte vocale avec protection PIN.
 - **Automatisation :** Script de prospection téléphonique automatique (Call Files).
@@ -20,10 +20,10 @@ Ce dépôt contient les configurations et scripts pour le déploiement d'un serv
 
 ## 🤝 Équipe
 
-- [**Evan Bonnal**](https://github.com/Evan-Bonal) 
-- [**Natalia Giraldo**](https://github.com/Natalia-Giraldo)
-- [**Alexandre Berdejo**](https://github.com/Alexandre-Berdejo)
-- [**Karim Chanfi**](https://github.com/Karim-Chanfi)
+- [**Evan Bonnal**](https://github.com/EvanBonal) 
+- [**Natalia Giraldo**](https://github.com/natalia-giraldo)
+- [**Alexandre Berdejo**](https://github.com/alexandreberdejo)
+- [**Karim Chanfi**](https://github.com/kvrim39)
 
 ## 🛠️ Installation
 Lancer le script install_asterisk.sh sur une Debian vierge.
