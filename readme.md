@@ -1,5 +1,5 @@
 
-# 📍Projet VoIP Asterisk 22 📞
+# 🛰️ Projet VoIP Asterisk 22 📡
 - **Titre :** Voice over Internet Protocol
 - **Auteur :** Evan Bonnal, Natalia Giraldo, Alexandre Berdejo, Karim Chanfi
 - **Formation :** Bachelor IT en Cybersécurité
@@ -27,3 +27,5 @@ Ce dépôt contient les configurations et scripts pour le déploiement d'un serv
 
 ## 🛠️ Installation
 Lancer le script install_asterisk.sh sur une Debian vierge.
+
+## ⏬ [Télécharger la documentation complete](resources/VoIP_Documentation_2026_Giraldo.pdf) 
